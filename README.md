@@ -1,2 +1,2 @@
 # bears
-demos 
+bear-related product demos
